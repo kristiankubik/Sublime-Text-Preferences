@@ -1,0 +1,26 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"Autoprefixer",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"CSScomb",
+		"Emmet",
+		"FileDiffs",
+		"Grunt",
+		"Gulp",
+		"LESS",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"Stylus",
+		"SublimeLinter",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	]
+}
