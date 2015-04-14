@@ -4,23 +4,30 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
 		"AngularJS",
 		"Autoprefixer",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
+		"ColorPicker",
 		"CSScomb",
+		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
+		"FixMyJS",
+		"GitGutter",
 		"Grunt",
 		"Gulp",
 		"LESS",
+		"Modific",
 		"Package Control",
 		"Sass",
 		"SCSS",
 		"Stylus",
 		"SublimeLinter",
 		"Theme - Soda",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"Zen Tabs"
 	]
 }
